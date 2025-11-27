@@ -40,8 +40,7 @@ Unordered List:
 
 
 - [ ] Task 1
-- [] Task 2
-- [x] Task 3 (completed)
+- [x] Task 2 (completed)
 
 
 
